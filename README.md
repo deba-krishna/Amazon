@@ -60,7 +60,7 @@ cd Amazon
 # 🌐 STEP 3: OPEN INDEX.HTML IN YOUR BROWSER
 
 ## 👀 Preview
-![Amazon Clone Preview](preview.jpg)  
+![Amazon Clone Preview](preview .jpg)  
 *Screenshot of the homepage of this Amazon Clone project*
 
 ---
