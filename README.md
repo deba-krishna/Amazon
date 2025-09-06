@@ -1,4 +1,4 @@
-# 🛒 Amazon Clone ⁠ﾉ✿
+# 🛒 Amazon Clone ✿
 
 This is my **first full website clone**, inspired by Amazon.  
 Currently, it’s built with just **HTML & CSS** (no JavaScript yet), so it’s simple and beginner-friendly.  
