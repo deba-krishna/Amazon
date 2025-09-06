@@ -49,15 +49,16 @@ This project is still in progress. Some things that can be added:
 
 To run this project locally, follow these steps:  
 
-```bash
-# 📥 STEP 1: CLONE THE REPOSITORY
-git clone https://github.com/deba-krishna/Amazon.git
 
+# 📥 STEP 1: CLONE THE REPOSITORY
+```bash
+git clone https://github.com/deba-krishna/Amazon.git
+```
 # 📂 STEP 2: OPEN THE PROJECT FOLDER
 cd Amazon
 
 # 🌐 STEP 3: OPEN INDEX.HTML IN YOUR BROWSER
-```
+
 ## 👀 Preview
 ![Amazon Clone Preview](preview.jpg)  
 *Screenshot of the homepage of this Amazon Clone project*
